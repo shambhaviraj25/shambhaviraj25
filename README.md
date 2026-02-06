@@ -1,7 +1,7 @@
 
 # 🏄‍♀️ Hola! Sammy here! (officially Shambhavi 😉)
 
-👩🏻‍💻 Java Developer @ TCS.<br/>
+👩🏻‍💻 Java Full Stack Developer @ TCS.<br/>
 👩🏻‍🎓 Studied Electronic and Communication at the MAKAUT, West Bengal.<br/>
 💭 Currently focussed on creating modern web development with React while diving deep into Java and data structures.<br/>
 💡 Outside of coding, you’ll find me ✈️ travelling to new places or 🎨 sketching ideas on paper.<br/>
